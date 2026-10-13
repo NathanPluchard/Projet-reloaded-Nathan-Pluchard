@@ -1,0 +1,5 @@
+result.txt
+*.exe
+*.test
+.vscode/
+.idea/
